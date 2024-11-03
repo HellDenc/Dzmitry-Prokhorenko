@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana;
+    font-size: 10px;
+    background-color: #30b45c;
+}
+h1{
+    color: green;
+}
+h2{
+    color: royalblue;
+}
+p{
+    color: blueviolet;
+}
