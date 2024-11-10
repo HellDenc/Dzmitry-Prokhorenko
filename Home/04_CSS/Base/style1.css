@@ -1,0 +1,17 @@
+ul {
+    list-style: none; margin-left: 0px;
+}
+div{
+    width: 620px;
+    text-indent:10px;
+    border: solid black 1px;
+    border-radius:  0px 15px 0px;
+}
+.link-icon span{    
+    position: relative;
+    display: none;   	
+}
+ 
+.link-icon:hover span{
+    display: inline;
+}
