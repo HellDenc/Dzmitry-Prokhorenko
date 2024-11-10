@@ -1,0 +1,26 @@
+  table{
+    width: 10px;
+    caption-side: bottom;    
+  }
+  th {
+    font-weight: normal;
+    color: black;
+    border-bottom: 1px dashed #69c;
+    padding: 12px 17px;
+    background-color: gray;
+    white-space: nowrap;
+    width: 1%;
+  }
+  td {
+    color: black;
+    padding: 7px 17px;
+    border-bottom: 1px dashed grey;
+    border-right: 1px dashed grey;
+    white-space: nowrap;
+    width: 1%;
+  }
+  .fon{
+    background-color: rgb(209, 198, 198);
+  }
+  .ride{border-right: none;}
+  button{background-color: blue; color: white;} 
